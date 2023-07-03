@@ -1,6 +1,6 @@
 {
     "id": "aws-sso-util",
-    "version": "4.31.0",
+    "version": "1.0.0",
     "name": "aws-sso-util (via pipx)",
     "documentationURL": "http://github.com/tomharvey/devcontainer-features/tree/main/src/aws-sso-util",
     "description": "Making life with Identity Center a little easier.",
