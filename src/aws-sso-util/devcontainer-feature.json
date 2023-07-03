@@ -1,0 +1,21 @@
+{
+    "id": "aws-sso-util",
+    "version": "1.0.0",
+    "name": "aws-sso-util (via pipx)",
+    "documentationURL": "http://github.com/tomharvey/devcontainer-features/tree/main/src/aws-sso-util",
+    "description": "Making life with Identity Center a little easier.",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Select the version to install.",
+            "proposals": [
+                "latest"
+            ],
+            "type": "string"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/pipx-package",
+        "ghcr.io/devcontainers/features/python"
+    ]
+}
