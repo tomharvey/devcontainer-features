@@ -1,9 +1,9 @@
 {
-    "id": "black",
-    "version": "2.0.16",
-    "name": "Black (via pipx)",
-    "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/black",
-    "description": "Black is an uncompromising Python code formatter.",
+    "id": "aws-sso-util",
+    "version": "4.31.0",
+    "name": "aws-sso-util (via pipx)",
+    "documentationURL": "http://github.com/tomharvey/devcontainers-features/tree/main/src/aws-sso-util",
+    "description": "Making life with Identity Center a little easier.",
     "options": {
         "version": {
             "default": "latest",

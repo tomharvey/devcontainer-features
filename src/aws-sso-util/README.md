@@ -1,7 +1,7 @@
 
 # aws-sso-util (via pipx)
 
-Making life with Identity Center a little easier
+Making life with Identity Center a little easier.
 .
 
 ## Example DevContainer Usage
